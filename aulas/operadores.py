@@ -1,4 +1,5 @@
 #operadores aritmeticos são iguais ao Java
+# // divisão inteira, sem considerar resto
 
 #lógicos
 saldo = 1000

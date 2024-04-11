@@ -1,3 +1,5 @@
+import textwrap
+
 def depositar(saldo, valor, extrato, /):
     if valor > 0:
         saldo += valor

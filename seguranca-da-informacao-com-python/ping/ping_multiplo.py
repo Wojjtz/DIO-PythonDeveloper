@@ -1,7 +1,7 @@
 import os
 import time 
 
-with open('projetos-seguranca_da_informacao/hosts.txt') as file: # abre o txt enquanto como arquivo
+with open('seguranca-da-informacao-com-python/ping/hosts.txt') as file: # abre o txt enquanto como arquivo
     dump = file.read() # variável para armazenar as linhas de conteúdo 
     dump = dump.splitlines()
 
